@@ -35,6 +35,13 @@ Replace `my-stack` with your desired stack name, `path/to/template.yaml` with th
 
 8. **Validate the Solution**: After the stack creation is complete, validate that the deployed solution is functioning as expected. Refer to the documentation or specific instructions provided with the template for guidance on how to test and verify the solution.
 
+## CloudFormation Templates
+
+1. **Generic all stack templates**
+2. **Serverless API service**
+This AWS CloudFormation solution deploys a simple AWS serverless example endpoint application.
+<img src="serverless-cft.png" alt="AWS Serverless" />
+
 ## Disclaimer
 
 The templates provided in this repository are offered as examples and should be used at your own risk. It is recommended to review and modify these templates to fit your specific requirements and follow AWS best practices before deploying them in a production environment.
