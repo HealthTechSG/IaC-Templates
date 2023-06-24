@@ -38,7 +38,10 @@ Replace `my-stack` with your desired stack name, `path/to/template.yaml` with th
 ## CloudFormation Templates
 
 1. **Generic all stack templates**
-2. **Serverless API service**
+This is a generic template with common AWS components in a multi-tier solution.
+<img src="generic_stack.png" alt="Generic Stack"/>
+
+3. **Serverless API service**
 This AWS CloudFormation solution deploys a simple AWS serverless example endpoint application.
 <img src="serverless-cft.png" alt="AWS Serverless" />
 
